@@ -2,7 +2,7 @@
 layout: page
 title: TALCO
 description: Tiling Genome Sequence Alignment using Convergence of Traceback Pointers
-img: TALCO-img.png
+img: TALCO-image.png
 importance: 1
 category: work
 ---
