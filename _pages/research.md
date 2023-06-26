@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+permalink: 
 description: List of On-going and past research projects
 display_categories: [On-going Projects]
 nav: true
