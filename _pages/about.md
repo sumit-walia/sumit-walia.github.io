@@ -20,3 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website! I'm Sumit Walia, a Ph.D. student at UCSD specializing in computer engineering. My research is dedicated to optimizing computational methods in bioinformatics by utilizing advanced hardware technologies such as FPGAs, GPUs, and ASICs. My goal is to enhance the speed and efficiency of bioinformatics analyses and address the growing computational challenges in the field. Join me in exploring the exciting intersection of hardware acceleration and bioinformatics, as we push the boundaries of scientific exploration.
  
+You can find my latest CV [here](https://drive.google.com/file/d/1AnVm25-hXPS0r-3nWddiWHdQF9-ymP6j/view?usp=sharing).
