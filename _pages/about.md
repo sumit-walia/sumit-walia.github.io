@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D., Computer Engineering
 
 profile:
-  align: justify
+  align: right
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
