@@ -2,9 +2,8 @@
 layout: page
 title: research
 permalink: /research/
-description: Growing collection of projects and amazing collaborators.
+description: List of projects.
 nav: true
 ---
-___
 
 ## recent seminar series
