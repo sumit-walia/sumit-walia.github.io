@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Research
-permalink: 
-description: List of On-going and past research projects
-display_categories: [On-going Projects]
+title: research
+permalink: /research/
+description: Growing collection of projects and amazing collaborators.
 nav: true
 ---
+___
 
-<div class="projects">
-    {%- if site.enable_project_categories and page.display_categories %}
-    <h2 class="category">{{ category }}</h2>
-    {%- endif -%}
-</div>
+## recent seminar series
