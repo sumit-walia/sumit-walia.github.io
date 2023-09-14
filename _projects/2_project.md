@@ -2,7 +2,7 @@
 layout: page
 title: PanMAT
 description: Efficient Pangenome Representation 
-img: assets/img/3.jpg
+img: assets/img/panmat.png
 importance: 2
 category: On-going Projects
 ---
