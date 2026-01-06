@@ -3,11 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 description: 
-years: [2022, 2021, 2020]
+years: [2025, 2024, 2022, 2021, 2020]
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
 
 {%- for y in page.years %}

@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'bigdecimal'
+    gem 'stringio'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -18,6 +20,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    
 end
 group :other_plugins do
     gem 'feedjira'
