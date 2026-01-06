@@ -49,7 +49,7 @@ DIPPER is designed to construct very large phylogenetic trees extremely quickly,
 ---
 
 #### <b>Ultrafast & Ultralarge Multiple Sequence Alignment using TWILIGHT</b>
-<p><b>ISMB'25 | Bioinformatics</b> <a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669583v1" title="Paper"><i class="fas fa-newspaper"></i></a>
+<p><b>ISMB'25 | Bioinformatics</b> <a href="https://academic.oup.com/bioinformatics/article/41/Supplement_1/i332/8199405" title="Paper"><i class="fas fa-newspaper"></i></a>
 | GitHub <a href="https://github.com/TurakhiaLab/twilight" title="GitHub"><i class="fab fa-github"></i></a>
 | Wiki <a href="https://turakhia.ucsd.edu/TWILIGHT/" title="Documentation"><i class="fas fa-book"></i></a></p>
 <strong>Scientific motivation:</strong><br>
