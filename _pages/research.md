@@ -31,7 +31,7 @@ PanMAN introduces a compact representation of large genomic populations using mu
 #### <b>Ultrafast & Ultralarge Phylogenetic Tree Construction using DIPPER</b>
 <p><b>Nature Computational Science (Under Review) </b>
 | GitHub <a href="https://github.com/TurakhiaLab/dipper" title="GitHub"><i class="fab fa-github"></i></a>
-| Wiki <a href="https://turakhia.ucsd.edu/dipper/" title="Documentation"><i class="fas fa-book"></i></a>
+| Wiki <a href="https://turakhia.ucsd.edu/DIPPER/" title="Documentation"><i class="fas fa-book"></i></a>
 | BioRxiv <a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669583v1" title="Paper"><i class="fas fa-newspaper"></i></a></p>
 <strong>Scientific motivation:</strong><br>
 Phylogenetic trees help scientists understand how species, pathogens, and viral strains evolve. However, traditional tools do not scale well to the millions of genomes now commonly generated in large-scale studies.
@@ -50,8 +50,8 @@ DIPPER is designed to construct very large phylogenetic trees extremely quickly,
 
 #### <b>Ultrafast & Ultralarge Multiple Sequence Alignment using TWILIGHT</b>
 <p><b>ISMB'25 | Bioinformatics</b> <a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669583v1" title="Paper"><i class="fas fa-newspaper"></i></a>
-| GitHub <a href="https://github.com/TurakhiaLab/dipper" title="GitHub"><i class="fab fa-github"></i></a>
-| Wiki <a href="https://turakhia.ucsd.edu/dipper/" title="Documentation"><i class="fas fa-book"></i></a></p>
+| GitHub <a href="https://github.com/TurakhiaLab/twilight" title="GitHub"><i class="fab fa-github"></i></a>
+| Wiki <a href="https://turakhia.ucsd.edu/TWILIGHT/" title="Documentation"><i class="fas fa-book"></i></a></p>
 <strong>Scientific motivation:</strong><br>
 Multiple sequence alignment (MSA) is a cornerstone of genomic analysis, but aligning millions of sequences traditionally requires enormous compute time and resources.
 
@@ -69,8 +69,7 @@ TWILIGHT makes it possible to perform massive, high-quality multiple sequence al
 
 #### <b>High-Performance Genome Sequence Alignment using TALCO</b>
 <p><b>HPCA'24</b> <a href="https://ieeexplore.ieee.org/document/10476438" title="Paper"><i class="fas fa-newspaper"></i></a>
-| GitHub <a href="https://github.com/TurakhiaLab/dipper" title="GitHub"><i class="fab fa-github"></i></a>
-| Wiki <a href="https://turakhia.ucsd.edu/dipper/" title="Documentation"><i class="fas fa-book"></i></a></p>
+| GitHub <a href="https://github.com/TurakhiaLab/talco" title="GitHub"><i class="fab fa-github"></i></a>/p>
 <strong>Scientific motivation:</strong><br>
 Genome sequence alignment is fundamental in bioinformatics, yet most approaches struggle to simultaneously achieve high accuracy, high speed, and energy efficiency.
 
