@@ -69,7 +69,7 @@ TWILIGHT makes it possible to perform massive, high-quality multiple sequence al
 
 #### <b>High-Performance Genome Sequence Alignment using TALCO</b>
 <p><b>HPCA'24</b> <a href="https://ieeexplore.ieee.org/document/10476438" title="Paper"><i class="fas fa-newspaper"></i></a>
-| GitHub <a href="https://github.com/TurakhiaLab/talco" title="GitHub"><i class="fab fa-github"></i></a>/p>
+| GitHub <a href="https://github.com/TurakhiaLab/talco" title="GitHub"><i class="fab fa-github"></i></a></p>
 <strong>Scientific motivation:</strong><br>
 Genome sequence alignment is fundamental in bioinformatics, yet most approaches struggle to simultaneously achieve high accuracy, high speed, and energy efficiency.
 
